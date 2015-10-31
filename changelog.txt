@@ -1,0 +1,4 @@
+Version 0.1
+1. Added automatic update feature
+2. Implemented Features:
+ a. Automatic search
