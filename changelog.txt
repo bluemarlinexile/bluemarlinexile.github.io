@@ -1,4 +1,5 @@
 Version 0.1
-1. Added automatic update feature
-2. Implemented Features:
- a. Automatic search
+ 1. Automatic search
+ 2. HTML5 search results renderer
+ 3. Widget for notification
+ 4. Full customizable search files   
