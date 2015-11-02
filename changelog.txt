@@ -1,3 +1,11 @@
+Version 0.1.1
+ 1. Added $TWENTY_MINS_AGO_IN_MILLISEC variable in Search files, 
+    this the time value 20 mins ago in milliseconds. 
+    You can use this for fields that are millisec valued like "shop.modified".
+ Notes, Darkshrine leagues values are:
+   a. Darkshrine (IC003)
+   b. Darkshrine HC (IC004)
+
 Version 0.1
  1. Automatic search
  2. HTML5 search results renderer
